@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://nanduare.github.io/ai-portfolio-site/</loc>
+         <lastmod>2025-10-15</lastmod>
+    </url>
+    <url>
+         <loc>https://nanduare.github.io/ai-portfolio-site/resume/</loc>
+         <lastmod>2025-10-15</lastmod>
+    </url>
+    <url>
+         <loc>https://nanduare.github.io/ai-portfolio-site/docs/about/</loc>
+         <lastmod>2025-10-15</lastmod>
+    </url>
+    <url>
+         <loc>https://nanduare.github.io/ai-portfolio-site/docs/projects/nids-realtime/</loc>
+         <lastmod>2025-10-15</lastmod>
+    </url>
+    <url>
+         <loc>https://nanduare.github.io/ai-portfolio-site/projects/ctr-feature-store/</loc>
+         <lastmod>2025-10-15</lastmod>
+    </url>
+    <url>
+         <loc>https://nanduare.github.io/ai-portfolio-site/projects/ml-algos/</loc>
+         <lastmod>2025-10-15</lastmod>
+    </url>
+    <url>
+         <loc>https://nanduare.github.io/ai-portfolio-site/projects/pg-index-recommender/</loc>
+         <lastmod>2025-10-15</lastmod>
+    </url>
+</urlset>
