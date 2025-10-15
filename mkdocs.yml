@@ -1,0 +1,43 @@
+site_name: Are Nanda Kishore — AI/ML Portfolio
+site_url: https://nanduare.github.io/ai-portfolio-site
+repo_url: https://github.com/nanduare/ai-portfolio-site
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.top
+    - toc.integrate
+    - header.autohide
+    - content.action.edit
+  font: false
+logo: assets/logo.svg
+favicon: assets/favicon.ico
+nav:
+  - Home: index.md
+  - Projects:
+    - Real-Time NIDS: projects/nids-realtime.md
+    - CTR Feature Store: projects/ctr-feature-store.md
+    - ML Algorithms (Scratch): projects/ml-algos.md
+    - PG Index Recommender: projects/pg-index-recommender.md
+  - About: about.md
+  - Resume: resume.md
+plugins:
+  - search
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/nanduare
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/NandaKishore06
+    - icon: material/email
+      link: mailto:nandyyy66@gmail.com
+extra_css:
+  - assets/extra.css
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
